@@ -1,0 +1,23 @@
+{
+  "name": "wordpress-gulp-bootstrap-base-theme",
+  "version": "1.0.0",
+  "description": "A base theme for Wordpress based on Gulp4 &amp; Bootstrap",
+  "main": "gulpfile.babel.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jormc/wordpress-gulp-bootstrap-base-theme.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jormc/wordpress-gulp-bootstrap-base-theme/issues"
+  },
+  "homepage": "https://github.com/jormc/wordpress-gulp-bootstrap-base-theme#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}

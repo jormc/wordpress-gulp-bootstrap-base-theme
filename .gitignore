@@ -17,3 +17,7 @@ wp-content/plugins/hello.php
 /sitemap.xml
 /sitemap.xml.gz
 
+
+# MINE
+src/vendor
+node_modules
